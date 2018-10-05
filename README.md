@@ -1,6 +1,8 @@
 # Geometry npm package version plugin
 [Geometry](https://github.com/geometry-zsh/geometry) plugin to display the current folder's npm package version when a `package.json`.
 
+![Screenshot](https://user-images.githubusercontent.com/1957563/46541451-57f6d080-c8bc-11e8-98fc-a1587e966d3a.png)
+
 ## Installation
 Installation depends on the way you manage your plugins for zsh.
 
